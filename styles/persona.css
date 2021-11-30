@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@300&display=swap');
+
+body{
+    font-family: "Noto Sans Mono", monospace;
+}
+
+.box{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid white;
+    width: 45%;
+    border-radius: 15px;
+    margin-top: 5px;
+}
+
+#leftProfile{
+    float:left;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    background-color: #91c2eb;
+    border-radius: 10px;
+    width: 25%;
+    padding-right: 1%;
+    padding-left: 1%;
+}
+
+#leftProfile img{
+    /*width:50%;
+    height:75%;*/
+    margin-left: auto;
+    margin-right: auto; 
+    border-radius: 15px 15px;
+}
+
+#demographics{
+    background-color: #7ecccf;
+}
+
+#valuesGoals{
+    background-color: #dade99;
+}
+
+#challenges{
+    background-color: #e87287;
+}
+
+#sources-influence{
+    background-color: #83d6a3;
+}
+
+h2{
+    text-align:center;
+}
+
+h1{
+    text-align:center;
+}
+
+#site-message{
+    text-align: center;
+}
